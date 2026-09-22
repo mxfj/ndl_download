@@ -137,7 +137,7 @@ py --version
 GitHub：
 
 ```bash
-git clone https://github.com/你的用户名/ndl-download.git
+git clone https://github.com/mxfj/ndl-download.git
 ```
 
 进入目录：
